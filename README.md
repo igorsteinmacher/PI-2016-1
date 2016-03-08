@@ -5,5 +5,5 @@ Este será o repositório de informações da disciplina de Projeto Integrador d
 Materiais, links, atividades e etc. estarão disponíveis por aqui.
 
 ## Canais de comunicação
-* Pull requests
+* Issues
 * Nosso canal slack: https://pi20161.slack.com
